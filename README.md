@@ -354,7 +354,7 @@ console.log(data);
 ## 👤 Author
 
 **Newton Script**
-AI Builder | Data Analyst | Software Engineer
+Mechatronics Student | Data Scientist | Software Engineer
 
 ---
 
