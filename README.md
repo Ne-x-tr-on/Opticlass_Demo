@@ -2,8 +2,6 @@
 
 > **Opticlass** is a next-generation AI-powered education platform that continuously analyzes student and teacher performance from **day one** to deliver optimized placement, insights, and personalized learning.
 
-Live: https://optimizedclass.vercel.app
-
 ---
 
 ## Overview
