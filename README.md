@@ -1,12 +1,12 @@
-# 🚀 Opticlass — Intelligent School Placement & Analytics Platform
+#  Opticlass — Intelligent School Placement & Analytics Platform
 
 > **Opticlass** is a next-generation AI-powered education platform that continuously analyzes student and teacher performance from **day one** to deliver optimized placement, insights, and personalized learning.
 
-🌐 Live: https://optimizedclass.vercel.app
+Live: https://optimizedclass.vercel.app
 
 ---
 
-## 🌍 Overview
+## Overview
 
 Opticlass is designed to transform education systems by introducing **continuous intelligence** into how students learn, how teachers teach, and how institutions make decisions.
 
@@ -19,7 +19,7 @@ Unlike traditional systems that rely on final exam scores, Opticlass:
 
 ---
 
-## ✨ Core Philosophy
+## Core Philosophy
 
 > “Every student and every teacher is a time-series story, not a single score.”
 
@@ -27,11 +27,11 @@ Opticlass treats education as a **continuous data stream**, not a one-time evalu
 
 ---
 
-## 🔥 Key Features
+## Key Features
 
 ---
 
-### 📈 Continuous Student Intelligence (Day 1 Tracking)
+### Continuous Student Intelligence (Day 1 Tracking)
 
 * Tracks:
 
@@ -48,7 +48,7 @@ Opticlass treats education as a **continuous data stream**, not a one-time evalu
 
 ---
 
-### 👨‍🏫 Continuous Teacher Intelligence
+### Continuous Teacher Intelligence
 
 * Tracks teacher performance from **first teaching session**
 * Measures:
@@ -58,12 +58,12 @@ Opticlass treats education as a **continuous data stream**, not a one-time evalu
   * Weak-student recovery rates
 * Automatically generates:
 
-  * 📊 Teacher portfolios
-  * 🏆 Performance rankings
+  * Teacher portfolios
+  * Performance rankings
 
 ---
 
-### 🎓 Optimized Student Placement Engine
+### Optimized Student Placement Engine
 
 * Goes beyond KCSE scores
 * Uses:
@@ -77,7 +77,7 @@ Opticlass treats education as a **continuous data stream**, not a one-time evalu
 
 ---
 
-### 🧠 Question-Level Analytics Engine
+### Question-Level Analytics Engine
 
 * Tracks:
 
@@ -90,7 +90,7 @@ Opticlass treats education as a **continuous data stream**, not a one-time evalu
 
 ---
 
-### 🎯 Personalized Recommendation Engine
+### Personalized Recommendation Engine
 
 * Recommends:
 
@@ -105,7 +105,7 @@ Opticlass treats education as a **continuous data stream**, not a one-time evalu
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```bash
 Client (Web / Mobile)
@@ -121,7 +121,7 @@ Analytics + Recommendations
 
 ---
 
-## 📡 API Base URL
+## API Base URL
 
 ```bash
 https://api.optimizedclass.vercel.app/v1/
